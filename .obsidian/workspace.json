@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "6101dac3b31ce874",
+    "type": "split",
+    "children": [
+      {
+        "id": "089905f33d8a4e14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5650f81bcc6cb427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e24ad0a7ee3459c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "107bdd1390586013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ccddc9f53b79ecb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e83492d97cdb379",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d946cfaf86c417ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f08f596f4d98fd87",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b62bb43a94e9a0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e1b7ad8f0ccf52a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/React.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a1ccc3c0953f814",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React/React.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "beb5d92883bb6e27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d69c64ffd3547265",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React/React.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "5650f81bcc6cb427",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "React/React.md",
+    "Notes/Node.js.md",
+    "React",
+    "Note.md",
+    "Excalidraw/Drawing 2023-10-03 01.08.25.excalidraw.md",
+    "Notes",
+    "Untitled.canvas",
+    "Excalidraw"
+  ]
+}
