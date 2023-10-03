@@ -1,4 +1,9 @@
 {
-  "accentColor": "",
-  "cssTheme": "Minimal"
+  "accentColor": "#4fe0b0",
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "translucency": false,
+  "nativeMenus": false,
+  "textFontFamily": "Inter"
 }

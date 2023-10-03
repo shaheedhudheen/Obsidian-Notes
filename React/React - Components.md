@@ -23,3 +23,14 @@ Think of React's declarative approach as writing a to-do list for a personal ass
 With React, you act like a project manager. You create a high-level task list, saying, "I need groceries from the store," and your assistant handles the logistics, deciding the best route, checking for discounts, and ensuring everything is brought back. You're focused on what needs to be done, not micromanaging the process.
 
 In this task delegation analogy, React allows you to outline the desired tasks (UI state) without getting bogged down in the specifics (DOM updates). When your shopping list (data) changes, React efficiently manages the execution of tasks (UI updates), making sure your web app stays organized and efficient. It's like having a reliable assistant who takes care of the details, making your coding more efficient and your web app management hassle-free.
+
+### What is a React Component?
+
+For now in simpler words, a component is a reusable piece of user interface that can be created as a function (functional component) or as a class (class component).
+
+### Why Components? 
+
+Components in React make it easier to manage and organize your code because you can create, update, and reuse them as needed.
+
+![[20231003105950.png]]
+
