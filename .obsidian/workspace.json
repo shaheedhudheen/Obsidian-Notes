@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4bde35483468ab3c",
+        "id": "ff376849e0270ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "1622c24fcce945fb",
+            "id": "ad741be8c8179f20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.Js/Terminologies and Concepts/JSON.md",
+                "file": "Node.Js/Terminologies and Concepts/The Events Module.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f08f596f4d98fd87",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.Js/Terminologies and Concepts/JSON.md",
+                "file": "Node.Js/Terminologies and Concepts/The Events Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.Js/Terminologies and Concepts/JSON.md",
+                "file": "Node.Js/Terminologies and Concepts/The Events Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.Js/Terminologies and Concepts/JSON.md"
+                "file": "Node.Js/Terminologies and Concepts/The Events Module.md"
               }
             }
           }
@@ -148,8 +147,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1622c24fcce945fb",
+  "active": "ad741be8c8179f20",
   "lastOpenFiles": [
+    "Node.Js/Terminologies and Concepts/The Node REPL.md",
+    "Node.Js/Terminologies and Concepts/The Events Module.md",
+    "Node.Js/Terminologies and Concepts/Modules.md",
+    "modular-program-diagram.svg",
+    "Node.Js/Terminologies and Concepts/NPM.md",
+    "Node.Js/Terminologies and Concepts/Node.js.md",
+    "Node.Js/Terminologies and Concepts/Core Modules.md",
+    "Node.Js/Terminologies and Concepts/Running a Program with Node.md",
     "Node.Js/Terminologies and Concepts/JSON.md",
     "JavaScript/JavaScript for Node.js/Asynchronous Concepts.md",
     "JavaScript/JavaScript for Node.js/Arrow Expressions.md",
@@ -158,7 +165,7 @@
     "markdown-cheat-sheet.md",
     "Node.Js/Terminologies and Concepts/Back-End.md",
     "Node.Js/Terminologies and Concepts/API.md",
-    "Node_8.svg",
+    "Node.Js/Assets/Node_8.svg",
     "Node.Js/Terminologies and Concepts/Authorization and Authentication.md",
     "Node.Js/Terminologies and Concepts/Different Back-end Stacks.md",
     "Node.Js/Terminologies and Concepts",
@@ -170,28 +177,20 @@
     "Excalidraw/Drawing 2023-10-03 14.06.29.excalidraw.md",
     "Node.Js/Terminologies and Concepts/node js drawing.md",
     "Node.Js/Terminologies and Concepts/Front End and Backend.md",
-    "Node.Js/Terminologies and Concepts/Node.js.md",
     "Excalidraw/Drawing 2023-10-03 13.43.47.excalidraw.md",
     "Excalidraw/Drawing 2023-10-03 13.38.10.excalidraw.md",
     "JavaScript/Topics To Covered.md",
     "React/Conditional Rendering - Component Life Cycle.md",
-    "Untitled.md",
     "JavaScript",
     "React/Untitled.md",
     "React/Hooks.md",
     "React/Pictures/Pasted image 20231003132212.jpg",
     "React/Pictures/Pasted image 20231003132208.jpg",
-    "React/States - Prop drilling.md",
     "React/Pictures/Pasted image 20231003130706.jpg",
     "React/Pictures/Pasted image 20231003130656.png",
     "React/Pictures/Pasted image 20231003130645.jpg",
-    "React/Pictures/Pasted image 20231003122122.jpg",
-    "React/Components - Props.md",
-    "React/React - Components.md",
-    "Linked Note.md",
     "React/Pictures",
     "React",
-    "Note.md",
     "Node.Js",
     "Untitled.canvas",
     "Excalidraw"
