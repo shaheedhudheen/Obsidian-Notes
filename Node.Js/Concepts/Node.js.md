@@ -30,3 +30,8 @@ Node.js is a JavaScript _runtime_, or an environment that allows us to execute 
 A “runtime” converts code written in a _high-level_, human-readable, programming language and compiles it down to code the computer can execute.
 
 Though Node was created with the goal of building web servers and web applications in JavaScript, it can also be used for creating command-line applications or desktop applications. 
+
+
+# From FreeCodeCamp
+
+Node.js is a JavaScript runtime that allows developers to write backend (server-side) programs in JavaScript. Node.js comes with a handful of built-in modules — small, independent programs — that help with this. Some of the core modules include HTTP, which acts like a server, and File System, a module to read and modify files.

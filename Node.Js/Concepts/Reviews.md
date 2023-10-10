@@ -1,0 +1,8 @@
+- Blocking code runs synchronously and non-blocking code, such as timer [functions](https://www.codecademy.com/resources/docs/javascript/functions), runs asynchronously.
+- Core [modules](https://www.codecademy.com/resources/docs/javascript/modules) are provided to developers to perform common tasks efficiently. Core modules are used by passing a string with the module’s name into the `require()` statement.
+- We can make our own instances of the `EventEmitter` class, and we can subscribe to listen for named [events](https://www.codecademy.com/resources/docs/javascript/events) with the `.on()` method and emit events with the `.emit()` method.
+- Node allows for both _output_, data/feedback to a user-provided by a computer, and _input_ data/feedback to the computer provided by the user. To handle [errors](https://www.codecademy.com/resources/docs/javascript/errors) during asynchronous operations, provided callback functions are expected to have an error as their first parameter.
+- The `buffer` module provides global `Buffer` [objects](https://www.codecademy.com/resources/docs/javascript/objects) used to represent a fixed amount of memory that can’t be resized.
+- The `timer` module provides functions that allow developers to execute [callbacks](https://www.codecademy.com/resources/docs/javascript/callbacks) at a specified point of time in the future.
+- The Node `fs` core module is an API for interacting with the **f**ile **s**ystem.
+- _Streams_ allow us to read or write data piece by piece instead of all at once.
