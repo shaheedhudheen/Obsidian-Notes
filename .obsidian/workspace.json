@@ -8,18 +8,75 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c2ee7725a1ed09a",
+            "id": "e02565f1f3636fda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.Js/Concepts/Express.js/Express Server.md",
+                "file": "Node.Js/Concepts/HTTP/Structure of HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77ca0ab52c51bf29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8073500de0243e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e7807c9b8759d26",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "81b8aba770cfd459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongoDB/Schema and Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56ba81028d792ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -69,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f08f596f4d98fd87",
@@ -86,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.Js/Concepts/Express.js/Express Server.md",
+                "file": "Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.Js/Concepts/Express.js/Express Server.md",
+                "file": "Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.Js/Concepts/Express.js/Express Server.md"
+                "file": "Questions.md"
               }
             }
           },
@@ -157,16 +213,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c2ee7725a1ed09a",
+  "active": "56ba81028d792ba6",
   "lastOpenFiles": [
+    "Random Questions.md",
+    "MongoDB/Schema and Model.md",
+    "Questions.md",
+    "Node.Js/Concepts/HTTP/Structure of HTTP.md",
+    "Routing.md",
+    "MongoDB/Mongoose.md",
+    "Node.Js/Attachments/Pasted image 20231011161539.png",
+    "MongoDB/Create a model.md",
+    "Node.Js/Concepts/Express.js/Root-Level Request Logger Middleware.md",
+    "MongoDB",
+    "Node.Js/Untitled.md",
+    "Node.Js/Concepts/Express.js/Get Route Parameter Input from the Client.md",
     "Node.Js/Concepts/Express.js/Express Server.md",
+    "The .env File.md",
     "Node.Js/Concepts/Express.js",
     "Node.Js/Concepts/Untitled.md",
     "Node.Js/Concepts/Node.js.md",
     "Package.json.md",
     "Node.Js/Concepts/HTTP/Practice.md",
     "Node.Js/Concepts/HTTP/Examples of Request and Responses.md",
-    "Node.Js/Concepts/HTTP/Structure of HTTP.md",
     "Blog Project Explanation.md",
     "Node.Js/Concepts/The Timers Module.md",
     "Node.Js/Concepts/REST Architecture.md",
@@ -178,33 +246,21 @@
     "RDR2.md",
     "Node.Js/Attachments/Pasted image 20231006121958.png",
     "Node.Js/Attachments/data-web-flow.webp",
-    "Node.Js/Concepts/HTTP/Routing.md",
-    "Node.Js/Concepts/HTTP/The Querystring Module.md",
-    "Node.Js/Concepts/HTTP/The Anatomy of the URL.md",
-    "Node.Js/Concepts/HTTP/The URL Model.md",
-    "Node.Js/Concepts/HTTP/HTTP Module.md",
     "Node.Js/Attachments/Pasted image 20231006013434.png",
-    "Node.Js/Concepts/HTTP/The Movement of HTTP.md",
-    "Node.Js/Concepts/HTTP/HTTP.md",
     "Node.Js/Attachments/Pasted image 20231005144134.png",
     "Node.Js/Attachments/Pasted image 20231005132247.png",
-    "Node.Js/Concepts/Reviews.md",
     "Node.Js/Concepts/HTTP/Attachments",
     "Node.Js/Concepts/HTTP",
     "Node.Js/Attachments/http-requests.svg",
     "Untitled.canvas",
-    "Node.Js/Concepts/Readable Streams.md",
-    "Node.Js/Concepts/The Buffer Module.md",
     "Node.Js/Attachments/modular-program-diagram.svg",
     "JavaScript/JavaScript for Node.js",
     "Node.Js/Attachments/Node_8.svg",
     "Node.Js/Concepts",
     "Node.Js/Attachments/Node_5v2__Updated_1.gif",
-    "Node.Js/Attachments/NodeBackEndFrontEnd_Update_1.gif",
     "Node.Js/Attachments",
     "JavaScript",
     "React/Pictures",
-    "React",
-    "Node.Js"
+    "React"
   ]
 }
